@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<compania>
+   <vuelo>
+    <numerodevuelo>LH 527 </numerodevuelo>
+    <origen>Sevilla</origen>
+    <destino>Galicia</destino>
+    <horadesalida>9:35</horadesalida>
+    <horadellegada>10:20</horadellegada>
+   </vuelo>
+   <vuelo>
+    <numerodevuelo>JK 75 </numerodevuelo>
+    <origen>Granada</origen>
+    <destino>Mallorca</destino>
+    <horadesalida>15:00</horadesalida>
+    <horadellegada>16:30</horadellegada>
+   </vuelo>
+   <vuelo>
+    <numerodevuelo>KH 7</numerodevuelo>
+    <origen>Madrid</origen>
+    <destino>Italia</destino>
+    <horadesalida>14:28</horadesalida>
+    <horadellegada>16:53</horadellegada>
+   </vuelo>
+   <vuelo>
+    <numerodevuelo>SE 30</numerodevuelo>
+    <origen>Sevilla</origen>
+    <destino>Nueva York</destino>
+    <horadesalida>10:00</horadesalida>
+    <horadellegada>15:30</horadellegada>
+   </vuelo>
+   <vuelo>
+    <numerodevuelo>K752 h</numerodevuelo>
+    <origen>Barcelona</origen>
+    <destino>Paris</destino>
+    <horadesalida>7:35</horadesalida>
+    <horadellegada>10:20</horadellegada>
+   </vuelo>
+</compania>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

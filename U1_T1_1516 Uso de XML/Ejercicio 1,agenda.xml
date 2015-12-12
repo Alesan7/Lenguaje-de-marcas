@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<agenda>
+   <persona>
+     <nombre>Julio Sanz</nombre>
+     <telefono>980750333</telefono>
+     <id>1</id>
+   </persona>
+   <persona>
+     <nombre>Mario Lopez</nombre>
+     <telefono>956356147</telefono>
+     <id>4</id>
+   </persona>
+   <persona>
+     <nombre>Alberto Castillo</nombre>
+     <telefono>954726952</telefono>
+     <id>7</id>
+   </persona>
+   <persona>
+     <nombre>Alejandro Garcia</nombre>
+     <telefono>955678436</telefono>
+     <id>9</id>
+   </persona>
+   <persona>
+     <nombre>Luis Rodriguez</nombre>
+     <telefono>675852941</telefono>
+     <id>11</id>
+   </persona>
+</agenda>

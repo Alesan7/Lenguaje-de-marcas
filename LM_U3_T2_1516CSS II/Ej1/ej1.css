@@ -1,0 +1,5 @@
+#primero p { color: #34669B; }
+a {color: red; }
+#primero em { background: #FFFFCC; }
+em.especial { background: #FFCC99; border: 1px solid #FF9900;}
+.normal span {font-weight: bold; }

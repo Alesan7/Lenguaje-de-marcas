@@ -1,0 +1,4 @@
+Diego, no sé porque el "boton4" lo ha dejado fuera del div "parte3",
+ al igual que no he podido poner los recuadro en su sitio,
+ me he llevado bastante rato intentando averiguarlo y no he sido capaz.
+En clase te preguntaré a ver que pasa. ;)

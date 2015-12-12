@@ -1,0 +1,159 @@
+#alink {
+ margin-left: 87%; 
+}
+
+#todo {
+    width: 1200px;
+    margin: 0px auto;
+    overflow-y:auto;
+}
+
+#parte1 {
+    overflow-y: auto;
+}
+
+#imagen1 {
+    float: left;
+    margin-top: 5px;
+}
+
+#imagen2 {
+    float: left;
+    margin-top: 20px;
+    
+    margin-left: 200px;
+}
+
+#boton1 {
+}
+#botonforma1{
+    float: left;
+    margin-left: 75px;
+    margin-top: 20px;
+  background: #51d160;
+  border-radius: 7px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+}
+
+#boton2 {
+}
+
+#botonforma2{
+     margin-top: 20px;
+    float: left;   
+ background: #848785;
+  border-radius:7px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+
+}
+
+#parte2 {    
+    overflow-y: auto;
+    clear: left;
+    border-radius: 10px;
+   background-color: #0282E5;
+}
+
+#botonparte2 {
+border-color:#0282E5;
+    float:left;
+    background: #0282E5;
+    padding: 10px 20px 10px 20px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    color:white;
+    font-size: ;
+        font-weight:600 ;
+}
+
+
+#botonparte21 {
+border-color:#0282E5;
+    float:left;
+    background: #0282E5;
+    padding: 10px 20px 10px 20px;
+    color:white;
+    font-size: ;
+        font-weight:600 ;      
+}
+
+#select1 {
+   margin-left: 220px;
+    border-color:#0282E5;
+    float:left;
+    background: #0282E5;
+    padding: 10px 20px 10px 20px;
+    color:white;
+    font-size: ;
+        font-weight:600;
+}
+
+.botonparte3 {
+    
+border-color:#0282E5;
+    float:left;
+    background: #0282E5;
+    padding: 10px 20px 10px 20px;
+    color:white;
+    font-size: ;
+        font-weight:600
+}
+
+#select2 {
+  border-color:#0282E5;
+    float:;
+    background: #0282E5;
+    padding: 10px 20px 10px 20px;
+    color:white;
+    font-size: ;
+        font-weight:600;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#parte3{
+ margin-top:15px;  
+    background:#0282E5 url(tia2.png)no-repeat bottom right; 
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#imagentia {
+    
+    float: right;
+}
+#h1 {
+ color:white;
+    padding: 10px 10px 10px 20px;
+    font-size: 50px;
+    }
+ 
+
+#h3 {
+    color:white;
+    padding: 10px 10px 10px 20px;
+}
+
+#boton4 {
+    border-color:#0282E5;
+    float:left;
+    background: #0282E5;
+    padding: 10px 20px 10px 20px;
+    color:white;
+    font-size: ;
+        font-weight:600 ;       
+}
+
+
+
+
+
+
+

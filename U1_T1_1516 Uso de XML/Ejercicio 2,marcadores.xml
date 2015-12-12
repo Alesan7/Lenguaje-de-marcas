@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<marcadores>
+  <pagina>
+    <nombre>Facebook</nombre>
+    <URL>http://www.facebook.com</URL>
+  </pagina>
+  <pagina>
+    <nombre>Google</nombre>
+    <URL>http://www.google.com</URL>
+  </pagina>
+  <pagina>
+    <nombre>Twitter</nombre>
+    <URL>http://www.twitter.com</URL>
+  </pagina>
+  <pagina>
+    <nombre>Youtube</nombre>
+    <URL>http://www.youtube.com</URL>
+  </pagina>
+  <pagina>
+    <nombre>Instagram</nombre>
+    <URL>http://www.instagram.com</URL>
+  </pagina>
+</marcadores> 
+
